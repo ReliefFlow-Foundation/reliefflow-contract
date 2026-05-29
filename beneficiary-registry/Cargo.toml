@@ -17,3 +17,5 @@ soroban-sdk = { workspace = true, features = ["testutils"] }
 testutils = ["soroban-sdk/testutils"]
 
 // patch: 2026-05-29T08:32:43.636363
+
+// patch: 2026-05-30T00:54:32.727272
